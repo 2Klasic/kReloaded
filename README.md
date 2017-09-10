@@ -4,4 +4,6 @@ Download Latest FutureRestore: http://api.tihmstar.net/builds/futurerestore/futu
 
 Download Latest TSSChecker: http://api.tihmstar.net/builds/tsschecker/tsschecker-latest.zip
 
+Download OdysseusOTA2:
 
+Download OdysseusOTA1:
