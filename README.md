@@ -6,6 +6,12 @@ Need to be jailbroken on your device
 
 OpenSSH needs to be installed
 
+## Guide on downgrading
+
+Theres a few ways on downgrading but i will show you two good ways to downgrade your device.
+
+
+
 ## Downloads
 
 Download Latest FutureRestore: http://api.tihmstar.net/builds/futurerestore/futurerestore-latest.zip
