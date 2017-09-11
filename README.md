@@ -17,8 +17,8 @@ Theres a few ways on downgrading but i will show you two good ways to downgrade 
 |---------|----------|------|
 | FutureRestore | http://api.tihmstar.net/builds/futurerestore/futurerestore-latest.zip |
 | TSSChecker | http://api.tihmstar.net/builds/tsschecker/tsschecker-latest.zip |
-| OdysseusOTA2 | https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fc6rz5u2vw9oyf9f%2FodysseusOTA2-v1.0.4.zip&redir_token=eidKFVlgYiqSnIIdAo2i3JagGAV8MTUwNTE3NTE4NkAxNTA1MDg4Nzg2 | a54c887ab13bfbdeaf3402bd6bd9b6ef4252300f |
-| OdysseusOTA1 | https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Foakjm4dgmuutsuf%2FodysseusOTA-v2.4.zip&redir_token=99jKS15IazlFv4vKO5HAhMkJmaN8MTUwNTE3NTIwM0AxNTA1MDg4ODAz | 3b0e5f2c7105c39185c3a2280eabc85f49f834c3 |
+| OdysseusOTA2 | https://www.dropbox.com/s/c6rz5u2vw9oyf9f/odysseusOTA2-v1.0.4.zip | a54c887ab13bfbdeaf3402bd6bd9b6ef4252300f |
+| OdysseusOTA1 | https://www.dropbox.com/s/oakjm4dgmuutsuf/odysseusOTA-v2.4.zip | 3b0e5f2c7105c39185c3a2280eabc85f49f834c3 |
 
 ## Bundles
 
