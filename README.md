@@ -13,7 +13,7 @@ Theres a few ways on downgrading but i will show you two good ways to downgrade 
 
 
 ## Downloads
-| Version | Download | SHA1 |
+| Tool | Download | SHA1 |
 |---------|----------|------|
 | FutureRestore | http://api.tihmstar.net/builds/futurerestore/futurerestore-latest.zip |
 | TSSChecker | http://api.tihmstar.net/builds/tsschecker/tsschecker-latest.zip |
