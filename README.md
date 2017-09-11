@@ -1,10 +1,10 @@
-# Downgrading to iOS 6.1.3 or 8.4.1 using OTA SHSH Blobs
+# Downgrading to iOS 6.1.3 or 8.4.1 using OTA SHSH Blobs on a 32-bit jailbroken device.
 
 ## Requirements
 
-Need to be jailbroken on your device
+32-bit Jailbroken device.
 
-OpenSSH needs to be installed
+OpenSSH installed on your device.
 
 ## Guide on downgrading
 
