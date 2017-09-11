@@ -16,8 +16,8 @@ Bundles for iOS 6.1.3 and iOS 8.4.1 can be found above in the bundles folder
 
 ## Supported Devices and iOS versions
 
-| Device   |  Version   | Download |
-|----------|------------|----------|
+| Device   |  Version   |
+|----------|------------|
 | iPad2,1  | iOS 6.1.3  | 
 | iPad2,2  | iOS 6.1.3  |
 | iPad3,3  | iOS 6.1.3  |
@@ -25,13 +25,12 @@ Bundles for iOS 6.1.3 and iOS 8.4.1 can be found above in the bundles folder
 | iPhone4,1 | iOS 6.1.3 |
 | iPhone5,1 | iOS 6.1.3 |
 | iPhone5,2 | iOS 6.1.3 |
-| iPad2,1   | iOS 8.4.1 | https://github.com/0x4141414/kReloaded/blob/master/Bundles/8.1.4/Down_iPad2_1_8.4.1_12H321.bundle.zip |
-| iPad2,2   | iOS 8.4.1 | https://github.com/0x4141414/kReloaded/blob/master/Bundles/8.1.4/Down_iPad2_2_8.4.1_12H321.bundle.zip |
-| iPad2,3   | iOS 8.4.1 | https://github.com/0x4141414/kReloaded/blob/master/Bundles/8.1.4/Down_iPad2_3_8.4.1_12H321.bundle.zip |
-| iPad2,4   | iOS 8.4.1 | https://github.com/0x4141414/kReloaded/blob/master/Bundles/8.1.4/Down_iPad2_4_8.4.1_12H321.bundle.zip |
-| iPad2,5   | iOS 8.4.1 | https://github.com/0x4141414/kReloaded/blob/master/Bundles/8.1.4/Down_iPad2_5_8.4.1_12H321.bundle.zip |
-| iPad2,6   | iOS 8.4.1 | https://github.com/0x4141414/kReloaded/blob/master/Bundles/8.1.4/Down_iPad2_6_8.4.1_12H321.bundle.zip |
-| iPad2,7   | iOS 8.4.1 | https://github.com/0x4141414/kReloaded/blob/master/Bundles/8.1.4/Down_iPad2_7_8.4.1_12H321.bundle.zip |
+| iPad2,1   | iOS 8.4.1 | 
+| iPad2,2   | iOS 8.4.1 | 
+| iPad2,3   | iOS 8.4.1 | 
+| iPad2,4   | iOS 8.4.1 | 
+| iPad2,6   | iOS 8.4.1 | 
+| iPad2,7   | iOS 8.4.1 | 
 | iPad3,1   | iOS 8.4.1 |
 | iPad3,2   | iOS 8.4.1 |
 | iPad3,3   | iOS 8.4.1 |
