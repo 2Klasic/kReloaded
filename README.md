@@ -10,7 +10,26 @@ OpenSSH installed on your device.
 
 Theres a few ways on downgrading but i will show you two good ways to downgrade your device.
 
+## Supported Devices and iOS versions
 
+| Device  | Version  |
+|---------|----------|
+|         |iOS 6.1.3 |
+|         |iOS 6.1.3 |
+|         |iOS 6.1.3 |
+|         |iOS 6.1.3 |
+|         |iOS 6.1.3 |
+|         |iOS 6.1.3 |
+|         |iOS 6.1.3 |
+|         |iOS 6.1.3 |
+|         |iOS 8.4.1 |
+|         |iOS 8.4.1 |
+|         |iOS 8.4.1 |
+|         |iOS 8.4.1 |
+|         |iOS 8.4.1 |
+|         |iOS 8.4.1 |
+|         |iOS 8.4.1 |
+|         |iOS 8.4.1 |
 
 ## Downloads
 | Tool | Download | SHA1 |
