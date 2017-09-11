@@ -28,7 +28,8 @@ Bundles for iOS 6.1.3 and iOS 8.4.1 can be found above in the bundles folder
 | iPad2,1   | iOS 8.4.1 | 
 | iPad2,2   | iOS 8.4.1 | 
 | iPad2,3   | iOS 8.4.1 | 
-| iPad2,4   | iOS 8.4.1 | 
+| iPad2,4   | iOS 8.4.1 |
+| iPad2,5   | iOS 8.4.1 | 
 | iPad2,6   | iOS 8.4.1 | 
 | iPad2,7   | iOS 8.4.1 | 
 | iPad3,1   | iOS 8.4.1 |
