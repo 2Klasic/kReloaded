@@ -15,3 +15,7 @@ Download Latest TSSChecker: http://api.tihmstar.net/builds/tsschecker/tsschecker
 Download OdysseusOTA2:
 
 Download OdysseusOTA1:
+
+## Bundles
+
+Bundles for iOS 6.1.3 and iOS 8.4.1 can be found above in the bundles folder
