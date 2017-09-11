@@ -13,8 +13,9 @@ Theres a few ways on downgrading but i will show you two good ways to downgrade 
 
 
 ## Downloads
-
-Download Latest FutureRestore: http://api.tihmstar.net/builds/futurerestore/futurerestore-latest.zip
+| Version | Download | SHA1 |
+|---------|----------|------|
+| FutureRestore | http://api.tihmstar.net/builds/futurerestore/futurerestore-latest.zip | a54c887ab13bfbdeaf3402bd6bd9b6ef4252300f |
 
 Download Latest TSSChecker: http://api.tihmstar.net/builds/tsschecker/tsschecker-latest.zip
 
