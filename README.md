@@ -6,14 +6,6 @@
 
 OpenSSH installed on your device.
 
-## Guide on downgrading
-
-Theres a few ways on downgrading but i will show you two good ways to downgrade your device.
-
-First way on how to downgrade is:
-
-Install kDFUapp on your device and toggle all of the buttons, if they are all toggles you can press "enter kDFU"
-
 ## Bundles
 
 Bundles for iOS 6.1.3 and iOS 8.4.1 can be found above in the bundles folder
